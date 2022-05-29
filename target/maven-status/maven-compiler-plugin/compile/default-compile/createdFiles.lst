@@ -1,0 +1,12 @@
+ocf/api/google/bookstore/models/response/GoogleBookStoreResponse.class
+ocf/api/google/bookstore/mappers/request/GoogleBookStoreServiceRequestMapper.class
+ocf/api/google/bookstore/handler/BookStoreHandler.class
+ocf/api/google/bookstore/BookstoreMainApplication.class
+ocf/api/google/bookstore/models/request/BookStoreRequest.class
+ocf/api/google/bookstore/datafetchers/BookStoreDataFetcher.class
+ocf/api/google/bookstore/configs/BookStoreConfig.class
+ocf/api/google/bookstore/services/GoogleBookstoreService.class
+ocf/api/google/bookstore/models/response/BookStoreResponse.class
+ocf/api/google/bookstore/models/request/GoogleBookStoreRequest.class
+ocf/api/google/bookstore/controllers/BookStoreController.class
+ocf/api/google/bookstore/validator/BookStoreRequestValidator.class

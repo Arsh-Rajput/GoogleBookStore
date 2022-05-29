@@ -1,0 +1,12 @@
+type Query
+{
+	bookStore(bookStoreRequest: BookStoreRequest): BookStoreResponse
+}
+input BookStoreRequest
+{
+    bookId: String
+}
+type BookStoreResponse
+{
+    details: String
+}
